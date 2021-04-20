@@ -1,0 +1,20 @@
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.exe.config
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.exe
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.pdb
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csprojAssemblyReference.cache
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator_Alain.Form1.resources
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator_Alain.Properties.Resources.resources
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csproj.GenerateResource.cache
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csproj.CoreCompileInputs.cache
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.exe
+C:\Users\Alain Paulin\source\repos\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.pdb
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.exe.config
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.exe
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\bin\Debug\Calculator Alain.pdb
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csprojAssemblyReference.cache
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator_Alain.Form1.resources
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator_Alain.Properties.Resources.resources
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csproj.GenerateResource.cache
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.csproj.CoreCompileInputs.cache
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.exe
+C:\Users\Alain Paulin\Desktop\ready to Submit\Programming\Calculator Alain\Calculator Alain\obj\Debug\Calculator Alain.pdb
